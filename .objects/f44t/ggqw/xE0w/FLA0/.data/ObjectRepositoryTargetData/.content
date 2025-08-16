@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="x_XFfd9wAEuBbsaHE8gA2Q" Reference="dPqtw0WUekurtn5u6rDh_w/FLA0SNmvLkGXeubIhu4xmA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/106551875" CVScreenId="28df4270-7dab-4be7-a428-19866ff9ad84" DesignTimeRectangle="11, 97, 0, 0" ElementType="Button" FullSelectorArgument="&lt;webctrl id='newStatus' tag='SELECT' /&gt;&lt;webctrl aaname='Completed' tag='OPTION' /&gt;" Guid="efced8fd-4283-47ca-9b77-c1ab3ad5465b" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="62eb062f62bd665f268a924654cfedb7.png" xmlns="">0IqndHMOx0kaKdJOrXpuYog</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

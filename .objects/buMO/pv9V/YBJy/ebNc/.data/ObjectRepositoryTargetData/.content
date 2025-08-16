@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8H4fvcuWXU2vJA_5Ms2tFQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha1.html" CVScreenId="e0723826-7179-4db9-92fd-310afd66bf14" CvTextArea="981, 336, 140, 17" CvTextArgument="Enter here..." CvType="Text" DesignTimeRectangle="971, 319, 960, 321" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='input' tag='TEXTAREA' /&gt;" Guid="42c584c6-0a04-4ccf-a7c9-45cb550a8e6a" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA1 - Online Tools' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e0723826-7179-4db9-92fd-310afd66bf14" CvTextArea="993, 281, 51, 24" CvTextArgument="Input" CvType="Text" DesignTimeRectangle="993, 280, 51, 24" ElementType="Text" Guid="47a8bb78-2765-4b6a-921d-9be139e09b28" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b4a21d6e3ba46023b9eee7c0d97b9c44.png" xmlns="">0rMkODHfAHUOu62rv7SbrQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

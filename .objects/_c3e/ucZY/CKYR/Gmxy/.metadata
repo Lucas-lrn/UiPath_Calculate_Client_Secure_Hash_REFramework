@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Client Country",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "GmxyEbO920-jnPurucWpBw",
+  "Reference": "dPqtw0WUekurtn5u6rDh_w/GmxyEbO920-jnPurucWpBw",
+  "ParentRef": "dPqtw0WUekurtn5u6rDh_w/CKYRsPh8_U2tPwLu9Dve6g",
+  "Created": "2025-07-30T16:02:25.4402438Z",
+  "Updated": "2025-07-30T16:02:25.4402438Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "Constant": false,
+    "Name": "ui_ACME",
+    "TypeFullyQualifiedName": "UiPath.Core.UiElement, UiPath.UiAutomation.Activities, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  }
+]

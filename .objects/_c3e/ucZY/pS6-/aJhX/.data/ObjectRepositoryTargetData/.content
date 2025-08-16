@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SSEOJ2DYGU-Jcb-uiUD0iQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106551875" CVScreenId="67d762f3-712a-4f18-84d0-cf85efb28d8c" CvElementArea="858, 802, 239, 54" CvTextArea="905, 818, 171, 22" CvTextArgument="Update Work Item" CvType="Button" DesignTimeRectangle="861, 803, 234, 50" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname=' Update Work Item' tag='BUTTON' /&gt;" Guid="fa086ec6-d97a-40c3-ba8e-6de28e424c4c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="67d762f3-712a-4f18-84d0-cf85efb28d8c" CvTextArea="860, 732, 52, 19" CvTextArgument="Date:" CvType="Text" DesignTimeRectangle="861, 731, 52, 23" FuzzySelectorArgument="&lt;webctrl type='' tag='B' class='' aaname='Date:' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Date:' /&gt;" Guid="a3d1f9ea-775e-4326-ad5d-6ab2aa55e3b1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="776f7a3338dfa5d02d200d132c59f1fc.png" xmlns="">01wmVOSCUkkiSWnxcUH5Vyw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
