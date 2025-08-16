@@ -30,10 +30,30 @@
 4. **END PROCESS**
  + ./Framework/*CloseAllApplications* - Logs out and closes applications used throughout the process
 
+## Project Title
+Automated Client Security Hash Calculation using REFramework
+## Project Description
+This RPA workflow is designed to automate the end-to-end process of calculating and updating the Client Security Hash for a specific type of work item within the ACME System 1 Web Application. The robot will log into the system, navigate to the work items list, and process each task of the WI5 type. For each qualifying task, the bot will extract client details (ID, Name, and Country), use a third-party online tool to generate a unique SHA1 security hash, and then return to the ACME system to update the work item's status to "Completed" with the newly generated hash.
 
-### For New Project ###
+## Project Objective
+The primary objective is to eliminate the manual, time-consuming, and repetitive task of generating and updating security hashes, thereby increasing operational efficiency and ensuring data accuracy.
 
-1. Check the Config.xlsx file and add/customize any required fields and values
-2. Implement InitiAllApplications.xaml and CloseAllApplicatoins.xaml workflows, linking them in the Config.xlsx fields
-3. Implement GetTransactionData.xaml and SetTransactionStatus.xaml according to the transaction type being used (Orchestrator queues by default)
-4. Implement Process.xaml workflow and invoke other workflows related to the process being automated
+This project aims to:
+
+- Improve Efficiency: Drastically reduce the time and effort required for human operators to process each work item.
+
+- Enhance Data Integrity: Minimize human error in transcribing client details and copying the generated hash.
+
+- Streamline Operations: Automate a critical business process, allowing staff to focus on more strategic and complex tasks.
+
+## Process Map
+<img width="1673" height="442" alt="image" src="https://github.com/user-attachments/assets/35fe4e4c-8878-48ad-bd8a-cef4743ed2cf" />
+
+## Process Workflow
+
+<img width="1093" height="779" alt="image" src="https://github.com/user-attachments/assets/c2c315c5-b37b-4a9a-9c8d-42af8532e755" />
+
+
+
+
+
